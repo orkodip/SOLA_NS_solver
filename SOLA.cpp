@@ -1,4 +1,5 @@
 //SOLA: A SIMPLIFIED PROCEDURE FOR SOLVING THE INCOMPRESSIBLE NAVIER-SOKES EQUATION
+//Refer to: "SOLA - A numerical solution algorithm for transient fluid flows" by Hirt et al. 1975, Report No. - LA-5852
 
 #include<iostream>
 #include<fstream>
