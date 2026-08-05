@@ -3,6 +3,7 @@
 
 #include<iostream>
 #include<fstream>
+#include<cmath>
 using namespace std;
 #define EPS 1e-6	//convergence tolerance limit
 
